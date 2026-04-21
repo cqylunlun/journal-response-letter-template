@@ -42,7 +42,7 @@ journal-response-letter-template/
 3. Replace the example comments and responses in `sec/editor.tex` and `sec/reviewer*.tex`.
 4. Compile `main.tex` with `pdflatex` or `xelatex`.
 
-## Optional: Attach a Highlighted Manuscript
+## Optional
 
 If you want to append a highlighted manuscript PDF to the response letter, place the file in the repository and uncomment the corresponding lines in `main.tex`.
 
