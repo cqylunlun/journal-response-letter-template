@@ -27,7 +27,6 @@ Below is a quick preview of the compiled PDF template.
 journal-response-letter-template/
 ├── main.tex
 ├── LICENSE
-├── .gitignore
 └── sec/
     ├── cover.tex
     ├── editor.tex
@@ -56,6 +55,16 @@ If you want to append a highlighted manuscript PDF to the response letter, place
 ## Citation
 
 If this template helps your workflow, a GitHub star or attribution in your own repository is appreciated.
+
+```bibtex
+@misc{journal_response_letter_template_2026,
+  title        = {Journal Response Letter Template},
+  author       = {Qiyu Chen},
+  year         = {2026},
+  howpublished = {GitHub repository},
+  url          = {https://github.com/cqylunlun/journal-response-letter-template}
+}
+```
 
 ## License
 
