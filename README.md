@@ -7,6 +7,12 @@ This repository is intended for authors who want a simple English template to:
 - organize comments and responses clearly,
 - highlight major revisions in a structured way.
 
+## Preview
+
+Below is a quick preview of the compiled PDF template.
+
+![Preview of the response letter template](./figures/pdf_file_thumbnail.png)
+
 ## Features
 
 - Clean cover page for journal title, manuscript ID, and paper title
