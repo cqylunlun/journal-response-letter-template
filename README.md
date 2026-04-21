@@ -53,7 +53,7 @@ If you want to append a highlighted manuscript PDF to the response letter, place
 - Please remove any journal-specific, manuscript-specific, or personal information before publishing your own version.
 - You may further adapt the wording and formatting to match the target journal's requirements.
 
-## Suggested Citation / Acknowledgment
+## Citation
 
 If this template helps your workflow, a GitHub star or attribution in your own repository is appreciated.
 
